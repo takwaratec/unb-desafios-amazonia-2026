@@ -69,16 +69,23 @@ Referência: documentação de governança do repositório MQTF.
 
 ## 4. Ecossistema de repositórios
 
-```mermaid
-flowchart LR
-    AC["Acervo Cientifico<br/>Fichas · Resenhas · DOI"]
-    MQ["MQTF · Mulheres Que Tecem a Floresta<br/>Consorcio UnB/UFAC/UFRR"]
-    DA["UnB + Consorcio<br/>Proposta Desafios da Amazonia"]
-
-    AC -->|Referencias| MQ
-    AC -->|Referencias| DA
-    MQ -.->|Protocolo-base| DA
-```
+<table>
+<tr>
+<td align="center"><strong>ACERVO CIENTÍFICO</strong><br/><small>Fichas · Resenhas · DOI</small></td>
+</tr>
+<tr>
+<td align="center"><small>↓ Referências</small></td>
+</tr>
+<tr>
+<td align="center">
+<table cellpadding="8"><tr>
+<td align="center"><strong>MQTF</strong><br/><small>Mulheres Que Tecem a Floresta<br/>Consórcio UnB/UFAC/UFRR</small></td>
+<td align="center"><small>↔ Protocolo-base</small></td>
+<td align="center" bgcolor="#f0f8ff"><strong>UnB + CONSÓRCIO</strong><br/><small>Proposta Desafios da Amazônia<br/>R$ 6-10M · Pré-proposta 01/09</small></td>
+</tr></table>
+</td>
+</tr>
+</table>
 
 | Repositório | O que é | Para quem |
 |---|---|---|
