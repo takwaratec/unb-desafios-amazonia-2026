@@ -70,17 +70,14 @@ Referência: documentação de governança do repositório MQTF.
 ## 4. Ecossistema de repositórios
 
 ```mermaid
-flowchart TB
-    subgraph Central["Acervo Cientifico"]
-        AC["Fichas · Resenhas · Perfis<br/>Lastro cientifico com DOI"]
-    end
-    subgraph Projetos["Projetos Ativos"]
-        MQ["MQTF · Mulheres Que Tecem a Floresta<br/>Consorcio UnB/UFAC/UFRR"]
-        DA["UnB + Consorcio · este repositorio<br/>Proposta Desafios da Amazonia"]
-    end
-    AC -->|"Fornece referencias"| MQ
-    AC -->|"Fornece referencias"| DA
-    MQ -.->|"Protocolo-base"| DA
+flowchart LR
+    AC["Acervo Cientifico<br/>Fichas · Resenhas · DOI"]
+    MQ["MQTF · Mulheres Que Tecem a Floresta<br/>Consorcio UnB/UFAC/UFRR"]
+    DA["UnB + Consorcio<br/>Proposta Desafios da Amazonia"]
+
+    AC -->|Referencias| MQ
+    AC -->|Referencias| DA
+    MQ -.->|Protocolo-base| DA
 ```
 
 | Repositório | O que é | Para quem |
