@@ -1,74 +1,49 @@
-# 🌿 UnB + Tecnologia Takwara — Desafios da Amazônia
+# Proposta UnB + Consórcio — Programa Desafios da Amazônia
 
-> ⚠️ **Compartilhamento seletivo** — Este repositório não é de acesso público irrestrito. Recomendamos o compartilhamento apenas com pessoas que tenham vínculo direto com o propósito: pesquisadores parceiros, cooperativas, avaliadores de editais e orientadores. A entrada de novos membros no ecossistema se dá exclusivamente por conexão com um projeto irmão ativo — não por convite aberto.
+> ⚠️ **Compartilhamento seletivo** — O acesso a este repositório é restrito a pessoas com vínculo direto com o propósito: pesquisadores parceiros, Instituições Científicas e Tecnológicas (ICTs), Organizações Socioprodutivas (OSPs), avaliadores de editais e orientadores. A entrada de novos membros se dá exclusivamente por conexão com um projeto irmão ativo.
 >
-> 🎋 **Acelerador de resultados, não vitrine** — Como o bambu, que não cresce isolado mas em rede de rizomas subterrâneos, cada repositório deste ecossistema só ganha sentido quando vinculado a um projeto real. Não expomos conhecimento para validação externa — aceleramos quem está na ponta.
+> 🎋 Este ecossistema opera sob duas bússolas complementares. As **7 Lições do Bambu** — curvar sem quebrar, criar raízes profundas, cooperar em comunidade, crescer com foco, colecionar nós de aprendizado, permanecer ocos de certezas e buscar o bem comum. Os **7 Pilares de Edgar Morin** para a educação do futuro — o conhecimento pertinente, a condição humana, a identidade terrena, a incerteza, a compreensão, a ética e o enfrentamento dos paradoxos.
 >
-> Trabalhamos sob duas bússolas. As **7 Lições do Bambu** nos lembram que é preciso curvar sem quebrar, criar raízes profundas, cooperar em comunidade, crescer com foco, colecionar nós de aprendizado, permanecer ocos de certezas e buscar o bem comum. Os **7 Pilares de Edgar Morin** para a educação do futuro nos ancoram no pensamento complexo: o conhecimento só é pertinente quando enfrenta a incerteza, ensina a condição humana e se compromete com a ética.
->
-> 🌱 **Este repositório** é a proposta da Rede UnB + Tecnologia Takwara para o Edital Desafios da Amazônia (Amazônia+10 / CONFAP / BNDES / Fundo Amazônia) — R$ 107 milhões em soluções para as cadeias produtivas da sociobioeconomia amazônica.
+> Este repositório consolida a proposta da Rede de Pesquisa e Inovação para o **Edital Desafios da Amazônia** (Amazônia+10 / CONFAP / BNDES / Fundo Amazônia) — R$ 107 milhões em soluções para cadeias produtivas da sociobioeconomia amazônica.
 
 ---
 
-## 🎯 Para a Profa Tânia e Parceiros — Como Esta Parceria Funciona
+## 1. Modelo de Colaboração — Partilha de Trabalho
 
-### O que nós (Fabio + Hermes) fazemos na "cozinha"
+O sistema de partilha e colaboração nos projetos segue a seguinte divisão:
 
-Nossa função é **desafogar os doutores do serviço pesado** de escrita, formatação, pesquisa e consolidação. O fluxo é simples:
-
-| Vocês (parceiros acadêmicos) | Nós (cozinha) |
+| Ator | Atribuição |
 |---|---|
-| Gravam **vídeos** ou **áudios** explicando o conteúdo | Transcrevemos, estruturamos e transformamos em texto de proposta |
-| Enviam **documentos de referência** (PDFs, artigos, relatórios) | Extraímos o conteúdo, criamos fichas no Acervo Científico |
-| Compartilham **dados técnicos** (coordenadas, espécies, comunidades) | Incorporamos na proposta com atribuição correta |
-| Revisam e **aprovam** o que produzimos | Ajustamos conforme o feedback |
+| **Pesquisadores parceiros** (ICTs, OSPs) | Fornecem conhecimento técnico-científico, dados de campo, artigos de referência. Podem gravar **áudios** explicativos (não vídeos) e enviar documentos |
+| **Staff de modelagem e escrita** | Transcreve, estrutura, redige, formata, pesquisa referências e consolida documentos |
+| **Revisão** | Pesquisadores revisam e aprovam o material produzido |
 
-### 📌 Regras para enviar material (para não misturar assuntos)
+### Orientações para envio de material:
 
-1. **Identifique-se sempre** — diga seu nome no início de cada áudio/vídeo. Áudios podem se misturar na pasta de triagem.
-2. **Nomeie o projeto** — mencione "Desafios da Amazônia" ou o nome do edital para que eu saiba em qual frente alocar.
-3. **Um assunto por vez** — se são temas diferentes (ex: orçamento e metodologia), grava áudios separados.
-4. **Documentos de referência** — mande o PDF/link e diga o que espera que eu extraia dele.
+1. **Identificar-se** no início de cada áudio: "Pesquisador [nome], ref. Desafios da Amazônia"
+2. **Nomear o projeto** — mencionar "Desafios da Amazônia" para correta alocação na triagem
+3. **Um assunto por áudio** — temas separados facilitam o processamento
+4. **Acompanhar documentos** — enviar PDF/artigo com indicação do que extrair
 
-> 📥 **Para enviar material:** basta mandar no chat (WhatsApp/Telegram) ou no e-mail. Eu processo e aloco na TRIAGEM-BRUTA da frente correta.
-
-### ⛔ Salvaguardas de Cancún (CANCU) — Protocolo-base do MQTF
-
-**Sem as Salvaguardas de Cancún (REDD+), os trabalhos não podem ter início, exceto como rascunho interno.** Isso não é burocracia — é a base de governança que garante:
-
-- Soberania dos dados territoriais
-- Consentimento Prévio, Livre e Informado (CPLI) das comunidades
-- Proteção dos conhecimentos tradicionais
-- Transparência e rastreabilidade
-
-O protocolo completo está no MQTF: `GOV_PROTOCOLO_SEGURANCA_CANCUN.md`
-Qualquer proposta deste projeto deve referenciar e respeitar este protocolo.
+> 📥 O material enviado é processado e alocado na TRIAGEM-BRUTA da frente correspondente. Todo o conteúdo é versionado em .md, com atribuição ao autor original.
 
 ---
 
-## 🌐 Site do Projeto
+## 2. Protocolo-base do MQTF
 
-👉 **https://takwaratec.github.io/unb-desafios-amazonia-2026/**
+Este projeto adota o protocolo-base de governança estabelecido pelo MQTF (Mulheres Que Tecem a Floresta), que inclui diretrizes para:
+- Consentimento e anuência das comunidades parceiras
+- Proteção de conhecimentos tradicionais
+- Soberania de dados territoriais
+- Transparência na partilha de ativos
 
----
+**Sem a observância deste protocolo, trabalhos de campo não podem ser iniciados — apenas rascunhos internos de proposta.**
 
-## 📂 Estrutura
-
-| Pasta | O que contém |
-|---|---|
-| `docs/` | **Documentos do projeto** — edital, proposta, rede, anexos |
-| `docs/index.md` | 🎯 **Raio-X de enquadramento** — análise completa edital vs. tecnologias |
-| `docs/edital/` | Ficha do edital, regulamento transcrito |
-| `docs/proposta/` | Rascunho da proposta, orçamento, cronograma |
-| `docs/rede/` | Membros da Rede — ICTs, OSPs, pesquisadores |
-| `docs/anexos-obrigatorios/` | Cartas de anuência, declarações |
-| `docs/protocolo-colaboradores.md` | 📋 **Protocolo de relacionamento com colaboradores** |
-| `.agents/scripts/` | Scripts portados do MQTF (triagem, revisão, expansão) |
-| `TRIAGEM-BRUTA/` | Material original NÃO versionado (áudios, PDFs, conversas) |
+Referência: documentação de governança do repositório MQTF.
 
 ---
 
-## 📋 Edital Ativo
+## 3. Dados do Edital
 
 | Campo | Valor |
 |---|---|
@@ -77,58 +52,73 @@ Qualquer proposta deste projeto deve referenciar e respeitar este protocolo.
 | **Valor total** | R$ 107,1 milhões |
 | **Valor por projeto** | R$ 6M a R$ 10M |
 | **Cadeias** | Açaí, Castanha-da-Amazônia, Cacau, Babaçu, Pesca |
-| **Pré-proposta** | Até **01/09/2026** |
+| **Pré-proposta** | Até **01/09/2026** via SIGCONFAP |
 | **Proposta final** | Até 08/12/2026 |
-| **Submissão** | https://sig.confap.org.br/ |
-| 🔗 **Edital completo** | https://www.amazoniamaisdez.org.br/chamadas-abertas |
+| **Edital completo** | https://www.amazoniamaisdez.org.br/chamadas-abertas |
+
+### Elegibilidade
+
+| Papel | Requisito |
+|---|---|
+| **ICT Executora** | Sediada na Amazônia Legal, pública ou privada sem fins lucrativos |
+| **ICT Co-Executora** | Sediada na Amazônia Legal, **em estado diferente** da Executora |
+| **OSP** | Cooperativa ou associação, 2+ anos, sediada na Amazônia Legal |
+| **PR (Pesquisador Responsável)** | Doutor, vínculo formal com a ICT Executora |
 
 ---
 
-## 🔗 Ecossistema de repositórios
+## 4. Ecossistema de repositórios
 
 ```mermaid
 flowchart TB
-    subgraph Central["🧠 Acervo Científico"]
-        AC["📚 Fichas · Resenhas · Perfis<br/>👥 Pesquisadores · Avaliadores<br/>🔗 Lastro científico com DOI"]
+    subgraph Central["Acervo Cientifico"]
+        AC["Fichas · Resenhas · Perfis<br/>Lastro cientifico com DOI"]
     end
-    subgraph Projetos["📋 Projetos Ativos"]
-        MQ["🌿 MQTF · Mulheres Que Tecem a Floresta<br/>👥 Consórcio UnB/UFAC/UFRR<br/>🔗 Bioeconomia amazônica · Dossiê BNDES"]
-        DA["🌎 UnB + Takwara · este repo<br/>👥 Pesquisadores · Cooperativas<br/>🔗 Proposta Desafios da Amazônia"]
+    subgraph Projetos["Projetos Ativos"]
+        MQ["MQTF · Mulheres Que Tecem a Floresta<br/>Consorcio UnB/UFAC/UFRR"]
+        DA["UnB + Consorcio · este repositorio<br/>Proposta Desafios da Amazonia"]
     end
-    AC -->|"Fornece referências ABNT"| MQ
-    AC -->|"Fornece referências ABNT"| DA
-    MQ -.->|"Sinergia técnica · CANCU"| DA
+    AC -->|"Fornece referencias"| MQ
+    AC -->|"Fornece referencias"| DA
+    MQ -.->|"Protocolo-base"| DA
 ```
 
-| Repositório | O que é | Para quem | Relação com os irmãos |
-|---|---|---|---|
-| 📚 **Acervo Científico** | Memória técnica: fichas, resenhas, estados da arte com DOI | Pesquisadores, avaliadores | Fornece lastro científico para todos os projetos |
-| 🌿 **MQTF** | Consórcio UnB/UFAC/UFRR — bioeconomia, dossiê BNDES | Pesquisadores, comunidades | Recebe lastro do Acervo; fornece protocolo CANCU |
-| 🌎 **UnB + Takwara** (este repo) | Proposta Desafios da Amazônia | Avaliadores, Profa Tânia, parceiros | Recebe lastro do Acervo; referência CANCU do MQTF |
+| Repositório | O que é | Para quem |
+|---|---|---|
+| **Acervo Científico** | Memória técnica: fichas, resenhas, estados da arte com DOI rastreável | Pesquisadores, avaliadores de editais |
+| **MQTF** (Mulheres-Tecem-Amazonia) | Consórcio UnB/UFAC/UFRR — dossiê BNDES, série técnica, bioeconomia | Pesquisadores, comunidades amazônicas |
+| **UnB + Consórcio** (este repo) | Proposta Desafios da Amazônia — R$ 6-10M | Avaliadores BNDES/CONFAP, parceiros |
+
+> O Acervo Científico é a fonte única de referências para todos os projetos do ecossistema. Exemplo ilustrativo do modelo de referenciamento: as ferramentas **TerImpact Ex-Ante** e **AgroRadarEval** (Daniela Maciel, Embrapa) estão fichadas no Acervo e associadas aos projetos do ECOSALA, demonstrando como a produção acadêmica se vincula às iniciativas em desenvolvimento. O mesmo modelo será aplicado ao MQTF e a este projeto.
 
 ---
 
-## 👥 Parceiros (em mapeamento)
+## 5. UnB no Acervo Científico
+
+Será criada uma seção específica para a UnB no Acervo Científico (`Analises-e-escrita-cientifica`), análoga à já existente para o ECOSALA, contendo:
+- Perfil dos pesquisadores envolvidos
+- Fichas técnicas da produção acadêmica relacionada
+- Projetos em desenvolvimento
+
+---
+
+## 6. Parceiros
 
 | Pessoa | Papel | Instituição | Situação |
 |---|---|---|---|
-| **Profa. Dra. Tânia** | Pesquisadora Responsável | UnB | ✅ Confirmada |
-| **ICT Executora** | A definir (UFAC? UFPA? UFAM?) | Amazônia Legal | 🔍 Mapeando |
-| **ICT Co-Executora** | A definir (outro estado) | Amazônia Legal | 🔍 Mapeando |
-| **OSP** | A definir (cooperativa/associação) | Amazônia Legal | 🔍 Mapeando |
-| **Fabio Takwara** | Desenvolvedor IA, tecnologias sociais | Tecnologia Takwara | ✅ Cozinha |
-
-> **Nota:** UFAC tem expertise em bambu — os pares específicos que vão se relacionar com este projeto ainda não foram identificados. Profa Tânia está em articulação.
+| **Profa. Dra. Tânia** | Pesquisadora Responsável | UnB | Confirmada |
+| **ICT Executora** | A definir | Amazônia Legal | Em articulação |
+| **ICT Co-Executora** | A definir (outro estado) | Amazônia Legal | Em articulação |
+| **OSP** | A definir | Amazônia Legal | Em articulação |
 
 ---
 
-## 📚 Acervo científico
+## 7. Acervo científico
 
-Pesquisas, fichas técnicas e referenciais para embasar a proposta:
 👉 **https://takwaratec.github.io/Analises-e-escrita-cientifica/**
 
-> O Acervo é a **fonte única de referências**. Conteúdo do MQTF ainda não fichado será fichado aqui.
+O Acervo é a fonte única de referências. Conteúdo do MQTF ainda não fichado será progressivamente incorporado seguindo o método Cavichioli (2025) — 8 seções obrigatórias.
 
 ---
 
-*Atualizado: 28/06/2026 · Repositório irmão: MQTF · Protocolo-base: Salvaguardas de Cancún (CANCU) · Tecnologia Takwara*
+*Atualizado: 28/06/2026 · Repositório irmão: MQTF · Protocolo-base: documentação de governança MQTF*

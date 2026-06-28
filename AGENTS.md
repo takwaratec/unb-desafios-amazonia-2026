@@ -51,10 +51,11 @@ Repositório de trabalho para estruturar a proposta de pesquisa e inovação da 
 
 ### ✅ Regras de conduta
 - **Única fonte de referências:** Acervo Científico (Analises-e-escrita-cientifica)
-- **Proposta impessoal** — sem marcas pessoais do Fabio, linguagem técnica institucional
+- **Proposta impessoal** — sem marcas pessoais, linguagem técnica institucional
 - **Toda ficha** segue método Cavichioli (2025): 8 seções obrigatórias
 - **Atribuição correta** — cada autor com seu crédito
 - **TRL honesto** — tecnologia descrita pelo que faz, não por codificação interna
+- **Protocolo-base MQTF** — trabalhos de campo só após observância das diretrizes de governança do MQTF
 
 ### Fluxo de trabalho
 1. `git pull` — sincronizar com remoto
