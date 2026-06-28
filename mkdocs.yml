@@ -1,0 +1,49 @@
+site_name: "UnB + Tecnologia Takwara — Desafios da Amazônia"
+site_url: "https://takwaratec.github.io/unb-desafios-amazonia-2026/"
+repo_url: "https://github.com/takwaratec/unb-desafios-amazonia-2026"
+edit_uri: ""
+
+use_directory_urls: false
+strict: false
+
+theme:
+  name: material
+  language: pt-BR
+  palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: teal
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: teal
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+
+copyright: "UnB + Tecnologia Takwara | Proposta Desafios da Amazônia | CC BY 4.0"
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - tables
+  - attr_list
+  - pymdownx.emoji
+
+plugins:
+  - search
+
+nav:
+  - Início: index.md
+  - Edital:
+    - Ficha do Edital: edital/ficha-edital.md
+  - Proposta:
+    - Em elaboração: proposta/index.md
+  - Rede:
+    - Parceiros: rede/index.md
+  - Acervo Científico: https://takwaratec.github.io/Analises-e-escrita-cientifica/
+  - MQTF (irmão): https://github.com/takwaratec/Mulheres-Tecem-Amazonia
