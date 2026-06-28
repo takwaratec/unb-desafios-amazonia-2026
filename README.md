@@ -53,7 +53,7 @@ Este projeto adota o protocolo de governança socioambiental estabelecido no âm
 
 **Sem a observância destas diretrizes, trabalhos de campo não podem ser iniciados — apenas rascunhos internos de proposta.**
 
-Referência: [documentação de governança](https://github.com/takwaratec/Mulheres-Tecem-Amazonia/blob/main/docs/03_DOSSIE_BNDES/02_GOVERNANCA_E_COMPLIANCE/GOV_PROTOCOLO_SEGURANCA_CANCUN.md).
+Referência: [documentação de governança](https://github.com/takwaratec/Mulheres-Tecem-Amazonia/blob/main/docs/01_GOVERNANCA/GOV_PROTOCOLO_SEGURANCA_CANCUN.md).
 
 ---
 

@@ -55,7 +55,7 @@ Repositório de trabalho para estruturar a proposta de pesquisa e inovação da 
 - **Toda ficha** segue método Cavichioli (2025): 8 seções obrigatórias
 - **Atribuição correta** — cada autor com seu crédito
 - **TRL honesto** — tecnologia descrita pelo que faz, não por codificação interna
-- **Protocolo de governança** — trabalhos de campo só após observância das diretrizes do protocolo CANCU (Salvaguardas de Cancún, REDD+), disponível na [documentação de governança](https://github.com/takwaratec/Mulheres-Tecem-Amazonia/blob/main/docs/03_DOSSIE_BNDES/02_GOVERNANCA_E_COMPLIANCE/GOV_PROTOCOLO_SEGURANCA_CANCUN.md)
+- **Protocolo de governança** — trabalhos de campo só após observância das diretrizes do protocolo CANCU (Salvaguardas de Cancún, REDD+), disponível na [documentação de governança](https://github.com/takwaratec/Mulheres-Tecem-Amazonia/blob/main/docs/01_GOVERNANCA/GOV_PROTOCOLO_SEGURANCA_CANCUN.md)
 
 ### Fluxo de trabalho
 1. `git pull` — sincronizar com remoto
