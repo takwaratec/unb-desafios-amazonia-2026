@@ -29,19 +29,17 @@ O sistema de partilha e colaboração nos projetos segue a seguinte divisão:
 
 ---
 
-## 📂 Estrutura do repositório
+## 📂 Documentos do projeto
 
-| Pasta | O que contém |
+| Arquivo | Link |
 |---|---|
-| `docs/edital/regulamento.md` | 📜 **Edital completo** transcrito (39 páginas) |
-| `docs/edital/formulario-espelho.md` | 📋 **Formulário espelho** para pré-proposta SIGCONFAP |
-| `docs/edital/ficha-edital.md` | 📄 **Ficha resumo** com prazos, valores e links |
-| `docs/index.md` | 🎯 **Raio-X de enquadramento** — análise edital vs. tecnologias |
-| `docs/protocolo-colaboradores.md` | 📋 **Protocolo de relacionamento** com parceiros |
-| `docs/proposta/` | Rascunho da proposta, orçamento, cronograma |
-| `docs/rede/` | ICTs, OSPs, pesquisadores da Rede |
-| `.agents/scripts/` | Scripts de triagem, revisão e expansão |
-| `TRIAGEM-BRUTA/` | Material original NÃO versionado (áudios, PDFs) |
+| 🎯 **Raio-X de enquadramento** — análise edital vs. tecnologias | [`docs/index.md`](docs/index.md) |
+| 📜 **Edital completo** transcrito (39 páginas) | [`docs/edital/regulamento.md`](docs/edital/regulamento.md) |
+| 📋 **Formulário espelho** para pré-proposta SIGCONFAP | [`docs/edital/formulario-espelho.md`](docs/edital/formulario-espelho.md) |
+| 📄 **Ficha resumo** do edital — prazos, valores, links | [`docs/edital/ficha-edital.md`](docs/edital/ficha-edital.md) |
+| 📋 **Protocolo de relacionamento** com colaboradores | [`docs/protocolo-colaboradores.md`](docs/protocolo-colaboradores.md) |
+| 👥 **Rede de parceiros** — ICTs, OSPs, pesquisadores | [`docs/rede/index.md`](docs/rede/index.md) |
+| ✍️ **Rascunho da proposta** — orçamento, cronograma | [`docs/proposta/index.md`](docs/proposta/index.md) |
 
 ---
 
