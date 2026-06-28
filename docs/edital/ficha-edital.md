@@ -43,6 +43,9 @@ A Rede de Pesquisa e Inovação deve ter:
 | O quê | Link |
 |---|---|
 | Página oficial | https://www.amazoniamaisdez.org.br/chamadas-abertas |
+| Edital completo (.md) | [`docs/edital/regulamento.md`](regulamento.md) |
+| Formulário espelho | [`docs/edital/formulario-espelho.md`](formulario-espelho.md) |
+| Ficha resumo | [`docs/edital/ficha-edital.md`](ficha-edital.md) |
 | Sistema SIGCONFAP | https://sig.confap.org.br/ |
 | Contato | desafios@amazoniamaisdez.org |
 | Repositório do projeto | https://github.com/takwaratec/unb-desafios-amazonia-2026 |

@@ -29,6 +29,22 @@ O sistema de partilha e colaboração nos projetos segue a seguinte divisão:
 
 ---
 
+## 📂 Estrutura do repositório
+
+| Pasta | O que contém |
+|---|---|
+| `docs/edital/regulamento.md` | 📜 **Edital completo** transcrito (39 páginas) |
+| `docs/edital/formulario-espelho.md` | 📋 **Formulário espelho** para pré-proposta SIGCONFAP |
+| `docs/edital/ficha-edital.md` | 📄 **Ficha resumo** com prazos, valores e links |
+| `docs/index.md` | 🎯 **Raio-X de enquadramento** — análise edital vs. tecnologias |
+| `docs/protocolo-colaboradores.md` | 📋 **Protocolo de relacionamento** com parceiros |
+| `docs/proposta/` | Rascunho da proposta, orçamento, cronograma |
+| `docs/rede/` | ICTs, OSPs, pesquisadores da Rede |
+| `.agents/scripts/` | Scripts de triagem, revisão e expansão |
+| `TRIAGEM-BRUTA/` | Material original NÃO versionado (áudios, PDFs) |
+
+---
+
 ## 2. Protocolo de Governança
 
 Este projeto adota o protocolo de governança socioambiental estabelecido no âmbito do projeto de bioeconomia amazônica do consórcio [UnB/UFAC/UFRR](https://github.com/takwaratec/Mulheres-Tecem-Amazonia), que inclui diretrizes para:
@@ -54,7 +70,7 @@ Referência: [documentação de governança](https://github.com/takwaratec/Mulhe
 | **Cadeias** | Açaí, Castanha-da-Amazônia, Cacau, Babaçu, Pesca |
 | **Pré-proposta** | Até **01/09/2026** via SIGCONFAP |
 | **Proposta final** | Até 08/12/2026 |
-| **Edital completo** | https://www.amazoniamaisdez.org.br/chamadas-abertas |
+| **Edital completo** | 🔗 [Página oficial](https://www.amazoniamaisdez.org.br/chamadas-abertas) · 📜 [`regulamento.md`](docs/edital/regulamento.md) · 📋 [`formulario-espelho.md`](docs/edital/formulario-espelho.md) |
 
 ### Elegibilidade
 
