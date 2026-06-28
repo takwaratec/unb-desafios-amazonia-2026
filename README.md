@@ -29,17 +29,17 @@ O sistema de partilha e colaboração nos projetos segue a seguinte divisão:
 
 ---
 
-## 2. Protocolo-base do MQTF
+## 2. Protocolo de Governança
 
-Este projeto adota o protocolo-base de governança estabelecido pelo MQTF (Mulheres Que Tecem a Floresta), que inclui diretrizes para:
+Este projeto adota o protocolo de governança socioambiental estabelecido no âmbito do projeto de bioeconomia amazônica do consórcio [UnB/UFAC/UFRR](https://github.com/takwaratec/Mulheres-Tecem-Amazonia), que inclui diretrizes para:
 - Consentimento e anuência das comunidades parceiras
 - Proteção de conhecimentos tradicionais
 - Soberania de dados territoriais
 - Transparência na partilha de ativos
 
-**Sem a observância deste protocolo, trabalhos de campo não podem ser iniciados — apenas rascunhos internos de proposta.**
+**Sem a observância destas diretrizes, trabalhos de campo não podem ser iniciados — apenas rascunhos internos de proposta.**
 
-Referência: documentação de governança do repositório MQTF.
+Referência: [documentação de governança](https://github.com/takwaratec/Mulheres-Tecem-Amazonia/blob/main/docs/03_DOSSIE_BNDES/02_GOVERNANCA_E_COMPLIANCE/GOV_PROTOCOLO_SEGURANCA_CANCUN.md).
 
 ---
 
@@ -71,7 +71,7 @@ Referência: documentação de governança do repositório MQTF.
 
 <table>
 <tr>
-<td align="center"><strong>ACERVO CIENTÍFICO</strong><br/><small>Fichas · Resenhas · DOI</small></td>
+<td align="center"><strong><a href="https://takwaratec.github.io/Analises-e-escrita-cientifica/">ACERVO CIENTÍFICO</a></strong><br/><small>Fichas · Resenhas · DOI</small></td>
 </tr>
 <tr>
 <td align="center"><small>↓ Referências</small></td>
@@ -79,34 +79,25 @@ Referência: documentação de governança do repositório MQTF.
 <tr>
 <td align="center">
 <table cellpadding="8"><tr>
-<td align="center"><strong>MQTF</strong><br/><small>Mulheres Que Tecem a Floresta<br/>Consórcio UnB/UFAC/UFRR</small></td>
-<td align="center"><small>↔ Protocolo-base</small></td>
-<td align="center" bgcolor="#f0f8ff"><strong>UnB + CONSÓRCIO</strong><br/><small>Proposta Desafios da Amazônia<br/>R$ 6-10M · Pré-proposta 01/09</small></td>
+<td align="center"><strong><a href="https://github.com/takwaratec/Mulheres-Tecem-Amazonia">MULHERES QUE TECEM A FLORESTA</a></strong><br/><small>Consórcio UnB/UFAC/UFRR<br/>Bioeconomia amazônica</small></td>
+<td align="center"><small>↔ Dados de governo</small></td>
+<td align="center" bgcolor="#f0f8ff"><strong><a href="https://github.com/takwaratec/unb-desafios-amazonia-2026">UnB + CONSÓRCIO</a></strong><br/><small>Proposta Desafios da Amazônia<br/>R$ 6-10M · Pré-proposta 01/09</small></td>
 </tr></table>
 </td>
 </tr>
 </table>
 
-| Repositório | O que é | Para quem |
-|---|---|---|
-| **Acervo Científico** | Memória técnica: fichas, resenhas, estados da arte com DOI rastreável | Pesquisadores, avaliadores de editais |
-| **MQTF** (Mulheres-Tecem-Amazonia) | Consórcio UnB/UFAC/UFRR — dossiê BNDES, série técnica, bioeconomia | Pesquisadores, comunidades amazônicas |
-| **UnB + Consórcio** (este repo) | Proposta Desafios da Amazônia — R$ 6-10M | Avaliadores BNDES/CONFAP, parceiros |
+| Repositório | O que é | Para quem | Link |
+|---|---|---|---|
+| **Acervo Científico** | Memória técnica: fichas, resenhas, estados da arte com DOI rastreável | Pesquisadores, avaliadores de editais | [Acessar](https://takwaratec.github.io/Analises-e-escrita-cientifica/) |
+| **Mulheres Que Tecem a Floresta** | Consórcio UnB/UFAC/UFRR — dossiê BNDES, série técnica, bioeconomia | Pesquisadores, comunidades amazônicas | [Acessar](https://github.com/takwaratec/Mulheres-Tecem-Amazonia) |
+| **UnB + Consórcio** (este repo) | Proposta Desafios da Amazônia — R$ 6-10M | Avaliadores BNDES/CONFAP, parceiros | [Acessar](https://github.com/takwaratec/unb-desafios-amazonia-2026) |
 
-> O Acervo Científico é a fonte única de referências para todos os projetos do ecossistema. Exemplo ilustrativo do modelo de referenciamento: as ferramentas **TerImpact Ex-Ante** e **AgroRadarEval** (Daniela Maciel, Embrapa) estão fichadas no Acervo e associadas aos projetos do ECOSALA, demonstrando como a produção acadêmica se vincula às iniciativas em desenvolvimento. O mesmo modelo será aplicado ao MQTF e a este projeto.
-
----
-
-## 5. UnB no Acervo Científico
-
-Será criada uma seção específica para a UnB no Acervo Científico (`Analises-e-escrita-cientifica`), análoga à já existente para o ECOSALA, contendo:
-- Perfil dos pesquisadores envolvidos
-- Fichas técnicas da produção acadêmica relacionada
-- Projetos em desenvolvimento
+> O Acervo Científico é a fonte única de referências para todos os projetos do ecossistema. Exemplo do modelo de referenciamento: as ferramentas **TerImpact Ex-Ante** e **AgroRadarEval** (Daniela Maciel, Embrapa) estão fichadas no Acervo e vinculadas a projetos do ECOSALA — demonstração prática de como a produção acadêmica se associa às iniciativas em desenvolvimento. O mesmo modelo de referenciamento se aplica a este projeto.
 
 ---
 
-## 6. Parceiros
+## 5. Parceiros e Acervo Científico
 
 | Pessoa | Papel | Instituição | Situação |
 |---|---|---|---|
@@ -115,14 +106,10 @@ Será criada uma seção específica para a UnB no Acervo Científico (`Analises
 | **ICT Co-Executora** | A definir (outro estado) | Amazônia Legal | Em articulação |
 | **OSP** | A definir | Amazônia Legal | Em articulação |
 
----
-
-## 7. Acervo científico
-
-👉 **https://takwaratec.github.io/Analises-e-escrita-cientifica/**
-
-O Acervo é a fonte única de referências. Conteúdo do MQTF ainda não fichado será progressivamente incorporado seguindo o método Cavichioli (2025) — 8 seções obrigatórias.
+Será criada uma seção específica para a UnB no [Acervo Científico](https://takwaratec.github.io/Analises-e-escrita-cientifica/) — análoga à já existente para o ECOSALA — com perfis dos pesquisadores, fichas técnicas da produção acadêmica e projetos em desenvolvimento. O Acervo é a fonte única de referências; conteúdos ainda não fichados serão progressivamente incorporados seguindo o método Cavichioli (2025).
 
 ---
 
-*Atualizado: 28/06/2026 · Repositório irmão: MQTF · Protocolo-base: documentação de governança MQTF*
+> Este repositório é vivo e será atualizado ao longo da construção da proposta. Com a articulação dos parceiros certos e o pé no chão das comunidades amazônicas, temos tudo para transformar este edital em ações concretas de bioeconomia, conservação e dignidade territorial. Sigamos.
+
+*Atualizado: 28/06/2026 · Proposta Desafios da Amazônia (Amazônia+10)*

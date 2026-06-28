@@ -58,9 +58,11 @@ O staff de modelagem e escrita não substitui o conhecimento técnico-científic
 
 ---
 
-## 4. Protocolo-base do MQTF
+## 4. Protocolo de Governança
 
-Este projeto adota o protocolo-base de governança estabelecido pelo MQTF (Mulheres Que Tecem a Floresta). Trabalhos de campo que envolvam comunidades parceiras só podem ser iniciados após observância das diretrizes de consentimento, proteção de dados e soberania territorial definidas neste protocolo.
+Este projeto adota o protocolo de governança socioambiental estabelecido no projeto de bioeconomia amazônica do consórcio UnB/UFAC/UFRR (Salvaguardas de Cancún — REDD+). Trabalhos de campo que envolvam comunidades parceiras só podem ser iniciados após observância das diretrizes de consentimento, proteção de dados e soberania territorial definidas neste protocolo.
+
+Documento de referência: [GOV_PROTOCOLO_SEGURANCA_CANCUN.md](https://github.com/takwaratec/Mulheres-Tecem-Amazonia/blob/main/docs/03_DOSSIE_BNDES/02_GOVERNANCA_E_COMPLIANCE/GOV_PROTOCOLO_SEGURANCA_CANCUN.md)
 
 ---
 
