@@ -56,15 +56,16 @@ Além do histórico com a UnB e IFB, desenvolvi ou colaborei com:
 - **Pós-COVID (2020)** — Elaborei a proposta *"A Cadeia Produtiva do Bambu em Resposta à COVID-19"*, submetida ao programa ENAP Desafios 2020-2022, com orçamento de R$ 3 milhões para infraestrutura, capacitação e geração de renda a partir do bambu.
 - **Nature Awards 2024** — Submissão ao prêmio Nature Awards, documentando a trajetória de pesquisa autodidata e tecnologias sociais com bambu.
 - **CEFET-MG / Nascente Incubadora (2023-2024)** — Fui contemplado em edital de incubadoras do CEFET-MG e integrado ao sistema de incubação da Nascente Incubadora de Negócios de Impacto (Processo 23062.028549/2023-34). Após reunião com FAPEMIG e Governo de MG, constatei descaso institucional com o bambu como material construtivo e falta de engajamento do corpo docente de engenharia. Em maio de 2024, solicitei a **rescisão do contrato de incubação** por carta, abdicando dos editais e parcerias públicas atrelados.
-- **ECOSALA** — Integrante do Coletivo ECOSALA, rede que articula pesquisadores de instituições como **IFSP, IFB, Embrapa, TEIA/Labiapa, MST, Terra Viva e USP**, com atuação em tecnologia social, editais e articulação institucional. O acervo de conexões inclui interlocução com atores de alto nível e instituições de peso nos campos da bioeconomia, desenvolvimento territorial e políticas públicas.
+- **ECOSALA** — Integrante do Coletivo ECOSALA (https://github.com/takwaratec/ECOSALA), rede que articula pesquisadores de instituições como **IFSP, IFB, Embrapa, TEIA/Labiapa, MST, Terra Viva e USP**, com atuação em tecnologia social, editais e articulação institucional. O acervo de conexões inclui interlocução com atores de alto nível e instituições de peso nos campos da bioeconomia, desenvolvimento territorial e políticas públicas.
+- **Medium / Advocacy Científica** — Canal de difusão pública do conhecimento e posicionamento sobre políticas do bambu, bioeconomia e ciência cidadã: https://fabiotakwara.medium.com
 
 ## 5. Projetos atuais e retomada da parceria
 
-Em 2025, retomei a parceria com a Profa. Tânia, dando continuidade ao legado do LaPeCFaS e MPTDF por meio do **MQTF (projeto de bioeconomia amazônica do consórcio UnB/UFAC/UFRR)**, no qual atuo como redator técnico e curador de conteúdo científico.
+Em 2025, retomei a parceria com a Profa. Tânia, dando continuidade ao legado do LaPeCFaS e MPTDF por meio do **MQTF (projeto de bioeconomia amazônica do consórcio UnB/UFAC/UFRR)**, no qual atuo como redator técnico e curador de conteúdo científico. Repositório: https://github.com/takwaratec/Mulheres-Tecem-Amazonia
 
 Atualmente estou engajado na articulação do edital **Desafios da Amazônia (Amazônia+10)** — CONFAP/BNDES/Fundo Amazônia, no valor de R$ 107 milhões, com pré-proposta prevista para 01 de setembro de 2026.
 
-Paralelamente, organizei o **Acervo Científico Takwara** — 319 fichas técnicas seguindo metodologia própria de curadoria documental, em equivalência com os protocolos institucionais, científicos e acadêmicos de referência, das quais 257 no eixo de tecnologia Takwara (bambu, PU vegetal, compósitos, habitação, clima, manejo, governança), todas com DOI rastreável e disponíveis para consulta e lastro científico dos projetos do laboratório.
+Paralelamente, organizei o **Acervo Científico Takwara** — 319 fichas técnicas seguindo metodologia própria de curadoria documental, em equivalência com os protocolos institucionais, científicos e acadêmicos de referência, das quais 257 no eixo de tecnologia Takwara (bambu, PU vegetal, compósitos, habitação, clima, manejo, governança), todas com DOI rastreável e disponíveis para consulta e lastro científico dos projetos do laboratório. Repositório: https://github.com/takwaratec/Analises-e-escrita-cientifica
 
 ## 6. Vinculação institucional
 
