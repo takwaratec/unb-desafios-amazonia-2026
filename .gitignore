@@ -4,3 +4,9 @@ __pycache__/
 .DS_Store
 *.pyc
 .env
+
+# Conversas
+**/WhatsApp Chat - */
+**/_chat*.txt
+*.wav
+*.opus

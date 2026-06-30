@@ -76,5 +76,5 @@ Em `.agents/scripts/`:
 Quando identificar material do MQTF ainda não fichado no Acervo Científico:
 1. Extrair texto do PDF original com PyMuPDF
 2. Criar ficha seguindo método Cavichioli (8 seções)
-3. Salvar em `Analises-e-escrita-cientifica/docs/analyses/tecnologia-takwara/`
+3. Salvar em `Analises-e-escrita-cientifica/docs/analises/tecnologia-takwara/`
 4. Referenciar na proposta como "Acervo Científico — Ficha Técnica [autor/ano]"
