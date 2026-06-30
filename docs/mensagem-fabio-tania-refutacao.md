@@ -13,8 +13,20 @@ A UnB pode celebrar acordo de parceria com pessoas físicas OU jurídicas sem ex
 **3. LDB (9.394/96) — Art. 66**
 O notório saber pode suprir exigência de título acadêmico. E a UnB tem doutorado em área afim pra reconhecer.
 
-Sugiro que peça ao procurador **a resolução específica** que ele usou como fundamento, e a data do parecer. Com esses três artigos na mão, dá pra questionar.
+---
 
-Produzi um documento detalhado com todos os dispositivos, fluxos e estratégias. Posso compartilhar se quiser.
+**Recurso cabível:**
+Conforme conversamos, o caminho é solicitar ao procurador a **fundamentação legal específica** do parecer (resolução interna, data e número). De posse disso, podemos contestar com os artigos acima. Você mesma disse que o desejo existe — é uma questão de enquadramento jurídico.
+
+**Documentos que produzi com a análise completa:**
+
+• Dispositivos legais e estratégias detalhadas:
+`github.com/takwaratec/unb-desafios-amazonia-2026/blob/main/docs/dispositivos-legais-parceria-unb.md`
+
+• Minuta para solicitação ao procurador (pode usar se quiser):
+`github.com/takwaratec/unb-desafios-amazonia-2026/blob/main/docs/minuta-procurador-unb.md`
+
+• Análise de marcos legais:
+`github.com/takwaratec/unb-desafios-amazonia-2026/blob/main/docs/analise-marcos-legais-voluntariado-unb.md`
 
 Vamos mostrar trabalho pra esses tecnocratas.
